@@ -1,0 +1,16 @@
+//
+//  CustomPrefix.pch
+//  CustomTableView
+//
+//  Created by MC976 on 11/29/15.
+//  Copyright © 2015 MC976. All rights reserved.
+//
+
+#ifndef CustomPrefix_pch
+#define CustomPrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UITableView+Custom.h"
+
+#endif /* CustomPrefix_pch */
